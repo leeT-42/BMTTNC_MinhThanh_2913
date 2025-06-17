@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./lab05/blockchain"
+    ]
+}
